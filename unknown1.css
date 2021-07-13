@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height: 100vh;
+}
+body{
+    background:url('https://source.unsplash.com/user/erondu/1600x900') ;
+    background-size: cover;
+}
+.form-login{
+    background: rgba(236,240,241,.35);
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+
+    max-width: 450px;
+    width: 100%;
+}
+.btn-primary{
+    background: #f1c40f;
+    border: none;
+}
+.btn-primary:hover{
+     background: rgb(233,221,52);
+}
